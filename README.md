@@ -18,6 +18,10 @@ If you **do not** have [Chrome](https://www.google.com/chrome/) installed, insta
 
 # Running the notebook
 
+For the next steps, use the ```bash``` option of VS Code, not ```powershell```! Select it on the right side of VS Code's terminal (as shown below).  
+
+![bash](figures/bash.png)
+
 Clone this repository in your VS Code's terminal. 
 
 ```
